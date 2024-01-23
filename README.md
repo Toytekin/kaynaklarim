@@ -1,0 +1,2 @@
+# kaynaklarim
+Sabit kaynak dosylarim
